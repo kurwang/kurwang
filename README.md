@@ -15,6 +15,4 @@ I am currently a software quality engineer at Red Hat. <br>I Love to automate th
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
