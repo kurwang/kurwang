@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a software quality engineer at Red Hat and looking to grow and build up my career as a developer. <br>I Love to automate things and a Go lang enthusiast. <br>Ask me about snowboarding or soccer!
+I am currently a software quality engineer at Red Hat and looking to grow and build up my career as a developer. <br>I love to automate things and am a golang enthusiast. <br>Ask me about snowboarding, ultimate frisbee, or soccer!
 
 
 ## 🌐 Socials:
